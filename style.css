@@ -1,0 +1,14 @@
+body {
+    height: 100vh;
+    color: #1f1f1f;
+    background: linear-gradient(to bottom, #bada55);
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr 3fr;
+}
+
+.grid-item {
+    
+}
